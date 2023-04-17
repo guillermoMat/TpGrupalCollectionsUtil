@@ -1,0 +1,15 @@
+C:\Users\Guill\source\repos\TpCollectionsUtil\TpCollectionsUtil\bin\Debug\net6.0\TpCollectionsUtil.exe
+C:\Users\Guill\source\repos\TpCollectionsUtil\TpCollectionsUtil\bin\Debug\net6.0\TpCollectionsUtil.deps.json
+C:\Users\Guill\source\repos\TpCollectionsUtil\TpCollectionsUtil\bin\Debug\net6.0\TpCollectionsUtil.runtimeconfig.json
+C:\Users\Guill\source\repos\TpCollectionsUtil\TpCollectionsUtil\bin\Debug\net6.0\TpCollectionsUtil.dll
+C:\Users\Guill\source\repos\TpCollectionsUtil\TpCollectionsUtil\bin\Debug\net6.0\TpCollectionsUtil.pdb
+C:\Users\Guill\source\repos\TpCollectionsUtil\TpCollectionsUtil\obj\Debug\net6.0\TpCollectionsUtil.csproj.AssemblyReference.cache
+C:\Users\Guill\source\repos\TpCollectionsUtil\TpCollectionsUtil\obj\Debug\net6.0\TpCollectionsUtil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guill\source\repos\TpCollectionsUtil\TpCollectionsUtil\obj\Debug\net6.0\TpCollectionsUtil.AssemblyInfoInputs.cache
+C:\Users\Guill\source\repos\TpCollectionsUtil\TpCollectionsUtil\obj\Debug\net6.0\TpCollectionsUtil.AssemblyInfo.cs
+C:\Users\Guill\source\repos\TpCollectionsUtil\TpCollectionsUtil\obj\Debug\net6.0\TpCollectionsUtil.csproj.CoreCompileInputs.cache
+C:\Users\Guill\source\repos\TpCollectionsUtil\TpCollectionsUtil\obj\Debug\net6.0\TpCollectionsUtil.dll
+C:\Users\Guill\source\repos\TpCollectionsUtil\TpCollectionsUtil\obj\Debug\net6.0\refint\TpCollectionsUtil.dll
+C:\Users\Guill\source\repos\TpCollectionsUtil\TpCollectionsUtil\obj\Debug\net6.0\TpCollectionsUtil.pdb
+C:\Users\Guill\source\repos\TpCollectionsUtil\TpCollectionsUtil\obj\Debug\net6.0\TpCollectionsUtil.genruntimeconfig.cache
+C:\Users\Guill\source\repos\TpCollectionsUtil\TpCollectionsUtil\obj\Debug\net6.0\ref\TpCollectionsUtil.dll
